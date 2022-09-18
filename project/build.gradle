@@ -13,9 +13,9 @@ repositories {
 }
 
 dependencies {
-	// 28강: PostgreSQL 드라이버 추가!
+	//  PostgreSQL 드라이버 추가!
 	runtimeOnly 'org.postgresql:postgresql'
-	// 10강: 롬복 추가
+	//  롬복 추가
 	compileOnly 'org.projectlombok:lombok'
 	annotationProcessor 'org.projectlombok:lombok'
 	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
@@ -23,9 +23,4 @@ dependencies {
 	implementation 'org.springframework.boot:spring-boot-starter-web'
 	runtimeOnly 'com.h2database:h2'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-}
-
-
-tasks.named('test') {
-	useJUnitPlatform()
 }
