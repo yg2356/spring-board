@@ -58,8 +58,9 @@ DB에러가 아니라 8080포트를 사용을 계속하고 있어 발생한 에�
 ***정상적으로 DB와 연동***
 ![image](https://user-images.githubusercontent.com/59286004/190894990-0decf4f8-6ee4-4455-bbe3-b8251ebe95d1.png)
 ![image](https://user-images.githubusercontent.com/59286004/190895009-aab43c27-ee22-4ad0-9dfa-18b44e2423e7.png)
+
 정상적으로 쿼리문이 수행되는게 보입니다.
-![image](https://user-images.githubusercontent.com/59286004/190895024-7f00d96a-f1ed-40ae-867e-16bd6522841c.png)
+
 
 
 
