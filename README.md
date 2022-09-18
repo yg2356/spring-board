@@ -1,10 +1,11 @@
 # spring-board
+# 스프링의 기본기에 충한 게시판 - 기본 html과 css는 부트스트랩을 이용하여 구현
 **기본적인 메인 화면**
 ![image](https://user-images.githubusercontent.com/59286004/190893560-2fa995d8-5001-4cb7-8498-16283933ff36.png)
 
- # 스프링의 기본기에 충한 게시판 - 기본 html과 css는 부트스트랩을 이용하여 구현
-<hr>
+
 **타이틀 클릭시**
+
 ![image](https://user-images.githubusercontent.com/59286004/190893631-72a87508-b439-4d1b-bc67-4c0460c166a5.png)
 게시글을 쓸 수 있고 아래에 댓글을 달 수 있는 창을 구현
 
