@@ -11,6 +11,7 @@
 
 **글 삭제시**
 ![image](https://user-images.githubusercontent.com/59286004/190893784-b5ef81df-eabd-4b8a-b769-4487a9e602df.png)
+
 삭제가 완료되었다는 창을 준비했습니다.
 
 ***댓글을 달경우***
