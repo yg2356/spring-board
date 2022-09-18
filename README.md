@@ -28,6 +28,7 @@
 댓글을 달고 글을 삭제할 경우 sql문제가 발생
 
 ![image](https://user-images.githubusercontent.com/59286004/190893904-9b62c2b3-def4-41f9-96cc-a799061ef91d.png)
+
 제가 
 ddl-auto=create-drop
 ddl-auto옵션을 create-drop로 해놔서그런건가 싶었는데 
@@ -41,6 +42,7 @@ jpa에서는 CASCADE_REMOVE를 이용하여 매핑되어 있는 것을 끊어줘
 
 
 ***댓글 수정을 누른경우***
+
 ![image](https://user-images.githubusercontent.com/59286004/190893729-f6413ca7-526c-4bb3-9777-7c5269a6db92.png)
 
 창을 보여지게 하여 정리를 할 수 있게하고 
